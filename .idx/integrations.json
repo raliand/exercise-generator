@@ -1,3 +1,6 @@
 {
-  "firebase_hosting": {}
+  "firebase_hosting": {
+    "deploymentHostingUrl": "https://local-is-better.web.app"
+  },
+  "gemini_api": {}
 }
